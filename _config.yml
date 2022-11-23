@@ -50,7 +50,7 @@ event:
       - text: "Apply"
         my_mlh:
           client_id:    "jruw7gkErizxXEkmXwUO7jurYC8AssZLGIyABAoQy8k"
-          redirect_uri: "https://mlh.github.io/mlh-hackathon-boilerplate/success.html"
+          redirect_uri: "https://debi-sys.github.io"
       - text: "Sponsor"
         href: "mailto:sponsorship@libunity.org"
 
